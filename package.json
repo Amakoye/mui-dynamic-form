@@ -1,0 +1,29 @@
+{
+  "name": "mui-dynamic-form",
+  "version": "1.0.0",
+  "description": "Form generator component built by extending material UI, react hook form and yup",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amakoye/mui-dynamic-form.git"
+  },
+  "author": "Charles Amakoye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amakoye/mui-dynamic-form/issues"
+  },
+  "homepage": "https://github.com/Amakoye/mui-dynamic-form#readme",
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.14.9",
+    "@mui/material": "^5.14.9",
+    "@types/react": "^18.2.21",
+    "react": "^18.2.0",
+    "react-hook-form": "^7.46.1",
+    "typescript": "^5.2.2"
+  }
+}
